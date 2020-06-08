@@ -9,3 +9,5 @@
   Adding a new line, since it did not quite work... yet
 
 ### testing the GPG integration
+
+  Another commit, to test for passphrase cache

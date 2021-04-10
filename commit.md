@@ -18,3 +18,5 @@
 
   Something went wrong... So we test again -_-
   Mhh... It just doesn't work.
+  Maybe it works now. Apparently you can set one gitconfig parameter mutliple
+  times?!?!?
